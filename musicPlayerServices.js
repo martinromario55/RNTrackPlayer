@@ -1,4 +1,4 @@
-import TrackPlayer, {RepeatMode} from 'react-native-track-player';
+import TrackPlayer, {Event, RepeatMode} from 'react-native-track-player';
 import {playListData} from './src/constants/constants';
 
 export async function playbackService() {
@@ -21,7 +21,7 @@ export async function setupPlayer() {
 
   try {
     // Get current track if player is already setup
-    await TrackPlayer.getActiveTrackIndex();
+    await TrackPlayer.getCurrentTrack();
     isSetup = true;
   } catch (error) {
     // Get and setup track for the first time (initial launch)

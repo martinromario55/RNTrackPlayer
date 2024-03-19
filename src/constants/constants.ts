@@ -6,8 +6,9 @@ export const playListData: Track[] = [
     title: 'United in Grief',
     artist: 'Kendrick Lamar',
     album: 'Mr. Morale',
-    duration: 1000,
-    artwork: 'https://example.com/image.jpg',
+    duration: 255000,
+    artwork:
+      'https://images.pexels.com/photos/2746823/pexels-photo-2746823.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     url: require('../assets/music/United-In-Grief.mp3'),
   },
   {
@@ -15,8 +16,9 @@ export const playListData: Track[] = [
     title: 'N95',
     artist: 'Kendrick Lamar',
     album: 'Mr. Morale',
-    duration: 1000,
-    artwork: 'https://example.com/image.jpg',
+    duration: 195000,
+    artwork:
+      'https://images.pexels.com/photos/2746823/pexels-photo-2746823.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     url: require('../assets/music/N95.mp3'),
   },
   {
@@ -24,8 +26,9 @@ export const playListData: Track[] = [
     title: 'Worldwide Steppers',
     artist: 'Kendrick Lamar',
     album: 'Mr. Morale',
-    duration: 1000,
-    artwork: 'https://example.com/image.jpg',
+    duration: 202000,
+    artwork:
+      'https://images.pexels.com/photos/2746823/pexels-photo-2746823.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     url: require('../assets/music/Worldwide-Steppers.mp3'),
   },
   {
@@ -33,8 +36,9 @@ export const playListData: Track[] = [
     title: 'Die Hard',
     artist: 'Kendrick Lamar',
     album: 'Mr. Morale',
-    duration: 1000,
-    artwork: 'https://example.com/image.jpg',
+    duration: 239000,
+    artwork:
+      'https://images.pexels.com/photos/2746823/pexels-photo-2746823.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     url: require('../assets/music/Die-Hard.mp3'),
   },
   {
@@ -42,8 +46,9 @@ export const playListData: Track[] = [
     title: 'Father Time',
     artist: 'Kendrick Lamar',
     album: 'Mr. Morale',
-    duration: 1000,
-    artwork: 'https://example.com/image.jpg',
+    duration: 222000,
+    artwork:
+      'https://images.pexels.com/photos/2746823/pexels-photo-2746823.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     url: require('../assets/music/Father-Time.mp3'),
   },
   {
@@ -51,8 +56,9 @@ export const playListData: Track[] = [
     title: 'Rich Interlude',
     artist: 'Kendrick Lamar',
     album: 'Mr. Morale',
-    duration: 1000,
-    artwork: 'https://example.com/image.jpg',
+    duration: 103000,
+    artwork:
+      'https://images.pexels.com/photos/2746823/pexels-photo-2746823.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     url: require('../assets/music/Rich-Interlude.mp3'),
   },
   {
@@ -60,8 +66,9 @@ export const playListData: Track[] = [
     title: 'Rich Spirit',
     artist: 'Kendrick Lamar',
     album: 'Mr. Morale',
-    duration: 1000,
-    artwork: 'https://example.com/image.jpg',
+    duration: 202000,
+    artwork:
+      'https://images.pexels.com/photos/2746823/pexels-photo-2746823.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     url: require('../assets/music/Rich-Spirit.mp3'),
   },
   {
@@ -69,8 +76,9 @@ export const playListData: Track[] = [
     title: 'We Cry Together',
     artist: 'Kendrick Lamar',
     album: 'Mr. Morale',
-    duration: 1000,
-    artwork: 'https://example.com/image.jpg',
+    duration: 341000,
+    artwork:
+      'https://images.pexels.com/photos/2746823/pexels-photo-2746823.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     url: require('../assets/music/We-Cry-Together.mp3'),
   },
   {
@@ -78,8 +86,9 @@ export const playListData: Track[] = [
     title: 'Purple Hearts',
     artist: 'Kendrick Lamar',
     album: 'Mr. Morale',
-    duration: 1000,
-    artwork: 'https://example.com/image.jpg',
+    duration: 329000,
+    artwork:
+      'https://images.pexels.com/photos/2746823/pexels-photo-2746823.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     url: require('../assets/music/Purple-Hearts.mp3'),
   },
 ];
