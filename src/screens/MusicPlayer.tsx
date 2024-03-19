@@ -1,11 +1,4 @@
-import {
-  Dimensions,
-  FlatList,
-  Image,
-  StyleSheet,
-  Text,
-  View,
-} from 'react-native';
+import {Dimensions, FlatList, Image, StyleSheet, View} from 'react-native';
 import React, {useState} from 'react';
 import TrackPlayer, {
   Event,
